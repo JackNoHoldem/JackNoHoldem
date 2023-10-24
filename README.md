@@ -1,7 +1,4 @@
 - 👋 @JackNoHoldem
-- 👀 Interested in DevOps, AWS, ML/AI, Trading
-- 🌱 Learning AWS services, ML
-- 💞️ Collaborate on DevOps, AWS, ML
 - 📫 Reach me: mstaaij@zonnet.nl
 
 <!---
